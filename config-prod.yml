@@ -1,2 +1,2 @@
-
-prod
+config
+  info: "main.config-prod/config.info"
