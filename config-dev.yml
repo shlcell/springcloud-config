@@ -1,2 +1,3 @@
-config£º
-  info: "main.config-dev/config.info 1"
+
+config:
+  info: "main.config-dev/config.info"
